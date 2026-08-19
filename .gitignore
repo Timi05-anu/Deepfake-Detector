@@ -1,0 +1,27 @@
+# Virtual environment
+deepfake_env/
+
+# Dataset
+data/
+
+# Node
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temp files
+temp/
+
+# Claude Code local config
+.claude/
+
+# Stray empty folder (unexpanded env var bug)
+%USERPROFILE%/
+
+# Model artifacts: logs, csv, cache, mid-training checkpoint
+model/*.log
+model/*.csv
+model/v2_data_cache.npz
+model/v2_checkpoint.h5
