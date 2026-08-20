@@ -2,9 +2,6 @@
 
 A web based deepfake detection tool that classifies real faces from AI generated ones, built with EfficientNet-B0.
 
-## Screenshot
-
-*(Add a screenshot of the app in action here)*
 
 ## Results
 
